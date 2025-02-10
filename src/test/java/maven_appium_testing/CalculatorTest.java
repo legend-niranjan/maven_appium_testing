@@ -1,7 +1,7 @@
 package maven_appium_testing;
 
 
-import static org.junit.jupiter.api.Assertions.*; 
+
 
 import static org.junit.Assert.assertEquals;
 
